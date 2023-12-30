@@ -262,7 +262,7 @@ body.color{
     }
     .navlist{
         position: absolute;
-        top: 100%;
+        top: -700%;
         left: 0;
         right: 0;
         display: flex;
